@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-colar aqui os shields.io
+
 </p>
 
 
@@ -18,8 +18,8 @@ colar aqui os shields.io
 | Project | Rank | Status | Language | Score | Activity |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [libft](https://github.com/Fabinevesf/Libft) | 00 | <img src="https://img.shields.io/badge/done-sucess" /> |<img src="" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="" /> |
-| [ft_printf]() | 01 | <img src="https://img.shields.io/badge/done-sucess" /> |<img src="" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="" /> |
-| [get_next_line]() | 01 | <img src="https://img.shields.io/badge/registed-yellow" /> |<img src="" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> | <img src="" /> |
+| [ft_printf]() | 01 | <img src="" /> |<img src="" /> | <img src="" /> | <img src="" /> |
+| [get_next_line]() | 01 | <img src="" /> |<img src="" /> | <img src="h" /> | <img src="" /> |
 
 </div>
 
